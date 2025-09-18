@@ -3486,6 +3486,42 @@
 		(color 0 0 0 0)
 		(uuid "f0a74ed8-8597-404c-8049-9a85165e4cc7")
 	)
+	(no_connect
+		(at 76.2 44.45)
+		(uuid "3207ace4-c529-4fd6-a86b-37f008872821")
+	)
+	(no_connect
+		(at 40.64 49.53)
+		(uuid "44cb2d79-bce4-455d-a41c-9c42f0bc1d34")
+	)
+	(no_connect
+		(at 40.64 54.61)
+		(uuid "6fbef957-9d31-4c4d-8d41-2c533907a5b4")
+	)
+	(no_connect
+		(at 76.2 49.53)
+		(uuid "868f3204-0dc9-42c8-99e0-4827e998f0a6")
+	)
+	(no_connect
+		(at 76.2 41.91)
+		(uuid "9d952117-15d6-4560-b4f2-5d19d0605532")
+	)
+	(no_connect
+		(at 40.64 52.07)
+		(uuid "a3074bd2-2079-46a5-b3ae-f7d2d04ee9ae")
+	)
+	(no_connect
+		(at 76.2 39.37)
+		(uuid "c99f8f5f-873f-4819-b54c-a82b375215f2")
+	)
+	(no_connect
+		(at 200.66 134.62)
+		(uuid "d739258c-65c0-40a5-ba18-adb4f9fee652")
+	)
+	(no_connect
+		(at 76.2 52.07)
+		(uuid "f775c1c2-17a2-4aee-9d86-222bfa4c0390")
+	)
 	(wire
 		(pts
 			(xy 30.48 91.44) (xy 27.94 91.44)
@@ -3575,6 +3611,16 @@
 			(type default)
 		)
 		(uuid "19e12c09-7939-4e8b-a127-ea45eb215b02")
+	)
+	(wire
+		(pts
+			(xy 144.78 130.81) (xy 144.78 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dd2817b-0119-43d8-8b30-900e57e65d40")
 	)
 	(wire
 		(pts
@@ -4195,6 +4241,16 @@
 			(type default)
 		)
 		(uuid "e3333a07-1282-4b39-8221-379b0afa7253")
+	)
+	(wire
+		(pts
+			(xy 144.78 129.54) (xy 147.32 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5031572-c2b2-4d51-a700-e079a31fad7f")
 	)
 	(wire
 		(pts
@@ -4867,72 +4923,6 @@
 			(project "7Tally"
 				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 78.74 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "126f78ab-1266-4b25-b1b8-3ae408f6a125")
-		(property "Reference" "#PWR01"
-			(at 78.74 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 78.74 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 78.74 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56b48cee-9bfd-41c9-b8d7-1bf8d5c09857")
-		)
-		(instances
-			(project ""
-				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -5827,6 +5817,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 78.74 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4edec577-4536-422c-abdb-022223abe2a7")
+		(property "Reference" "#PWR07"
+			(at 78.74 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 78.74 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 78.74 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d418c3b8-bdb4-4036-945b-7864aff7317d")
+		)
+		(instances
+			(project "7Tally"
+				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "BQ21040DBVR:BQ21040DBVR")
 		(at 179.07 58.42 0)
 		(unit 1)
@@ -6211,6 +6267,71 @@
 			(project "7Tally"
 				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 144.78 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65824583-da88-44b1-8723-f43a4cd9d353")
+		(property "Reference" "#PWR029"
+			(at 144.78 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 141.986 131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 144.78 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "089c19dc-7984-4795-bd6e-843bf45adb61")
+		)
+		(instances
+			(project "7Tally"
+				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
