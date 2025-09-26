@@ -120,6 +120,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "error",
+        "text_on_edge_cuts": "error",
         "text_thickness": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -487,6 +488,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -779,6 +781,10 @@
     [
       "a26cb5f3-8ba9-4d03-a29e-a58d33583019",
       "Root"
+    ],
+    [
+      "7f2d2391-7ef0-426e-aa02-bde00b25e545",
+      "Leds"
     ]
   ],
   "text_variables": {}
