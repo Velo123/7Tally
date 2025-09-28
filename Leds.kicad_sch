@@ -380,13 +380,13 @@
 		(uuid "09d8802f-d9cd-42ec-aa2f-c3a7771b4d91")
 	)
 	(junction
-		(at 181.61 132.08)
+		(at 181.61 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10884973-026b-40e4-a109-c17fb4e80ed0")
 	)
 	(junction
-		(at 118.11 132.08)
+		(at 118.11 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11c5c500-4408-4619-ba91-5efa1233d403")
@@ -416,7 +416,7 @@
 		(uuid "277477dd-8f13-4342-a5e6-6d59949d21e9")
 	)
 	(junction
-		(at 86.36 151.13)
+		(at 125.73 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f5f22cf-b1a1-4b86-bcc4-6dbc0651f304")
@@ -434,7 +434,13 @@
 		(uuid "458a3443-9304-4de9-a8d7-4cf5951d76ae")
 	)
 	(junction
-		(at 149.86 132.08)
+		(at 173.99 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45ec7a3a-904c-4419-a8f2-c73e8cd19418")
+	)
+	(junction
+		(at 149.86 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e62e3be-52ec-48af-956f-05cf689dcb69")
@@ -470,7 +476,7 @@
 		(uuid "6bc8e765-cdb3-469c-a3d1-9d96895789f9")
 	)
 	(junction
-		(at 118.11 151.13)
+		(at 157.48 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70de1938-3dd2-4104-b35c-29832ff3a7ac")
@@ -488,7 +494,7 @@
 		(uuid "7553a329-886c-4900-b929-0b5be908addb")
 	)
 	(junction
-		(at 118.11 102.87)
+		(at 118.11 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bdd8702-0ef6-456c-bdd8-e3c280b2ca24")
@@ -500,7 +506,7 @@
 		(uuid "82e5c60c-5877-4c94-be6d-30ca8fbe885e")
 	)
 	(junction
-		(at 118.11 180.34)
+		(at 157.48 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9384d624-6a0a-46a4-992b-454c09748116")
@@ -512,7 +518,7 @@
 		(uuid "96a53806-7184-46a0-a6cb-486c88a5aae1")
 	)
 	(junction
-		(at 86.36 180.34)
+		(at 125.73 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99faa09d-d2ef-4dad-88a6-281da2a9a7fa")
@@ -524,13 +530,7 @@
 		(uuid "9a8863c8-1282-4d6c-ba0d-d04df214a0c1")
 	)
 	(junction
-		(at 149.86 180.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b88d1ba-3fa9-4b49-97e3-8906c60d12f0")
-	)
-	(junction
-		(at 54.61 151.13)
+		(at 93.98 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a274bf20-9af5-48a0-8ee4-c49a6b8c2ceb")
@@ -542,7 +542,13 @@
 		(uuid "a2c5697d-939c-4ebc-abb6-e1456332ed1c")
 	)
 	(junction
-		(at 86.36 102.87)
+		(at 62.23 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a60b3301-29f6-4a0c-b799-94ea0998fbf2")
+	)
+	(junction
+		(at 86.36 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a72e8fc2-38df-4b48-a8fa-611120e248d4")
@@ -596,16 +602,22 @@
 		(uuid "d209fd23-5e58-4929-86a3-bf4b49668161")
 	)
 	(junction
-		(at 149.86 102.87)
+		(at 149.86 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5d53dd2-3b7b-415c-b644-2f349c94f816")
 	)
 	(junction
-		(at 86.36 132.08)
+		(at 86.36 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db7e4312-e4c3-417c-9ef7-ee4cb0377cad")
+	)
+	(junction
+		(at 92.71 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f305fd10-bddd-4341-83a4-ccfee2484d8b")
 	)
 	(junction
 		(at 181.61 20.32)
@@ -614,7 +626,7 @@
 		(uuid "fdc9a51a-f15d-41ec-84e4-1e7cef40d42a")
 	)
 	(junction
-		(at 54.61 102.87)
+		(at 54.61 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe474272-528c-467c-92da-cce5d1c8a8ad")
@@ -631,13 +643,23 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 166.37) (xy 54.61 166.37)
+			(xy 92.71 153.67) (xy 93.98 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "032b5888-be13-4ed3-852e-475a72732d95")
+	)
+	(wire
+		(pts
+			(xy 62.23 138.43) (xy 93.98 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04741985-dfcf-46c0-a512-234ed808cd1c")
 	)
 	(wire
 		(pts
@@ -651,7 +673,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 166.37) (xy 149.86 166.37)
+			(xy 187.96 153.67) (xy 193.04 153.67)
 		)
 		(stroke
 			(width 0)
@@ -681,7 +703,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 123.19) (xy 86.36 123.19)
+			(xy 85.09 116.84) (xy 86.36 116.84)
 		)
 		(stroke
 			(width 0)
@@ -711,7 +733,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 151.13) (xy 86.36 151.13)
+			(xy 93.98 138.43) (xy 125.73 138.43)
 		)
 		(stroke
 			(width 0)
@@ -761,6 +783,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 135.89) (xy 193.04 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14f7dbd2-3ee4-45ce-ae58-ea4659d77f87")
+	)
+	(wire
+		(pts
 			(xy 276.86 30.48) (xy 276.86 20.32)
 		)
 		(stroke
@@ -768,6 +800,16 @@
 			(type default)
 		)
 		(uuid "166b4528-ff96-4898-b1ca-d8873142d7b0")
+	)
+	(wire
+		(pts
+			(xy 173.99 163.83) (xy 189.23 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17d15a18-37a4-470f-9ed0-89aeaa2956a2")
 	)
 	(wire
 		(pts
@@ -801,7 +843,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 161.29) (xy 118.11 151.13)
+			(xy 157.48 148.59) (xy 157.48 138.43)
 		)
 		(stroke
 			(width 0)
@@ -821,13 +863,33 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 102.87) (xy 181.61 102.87)
+			(xy 149.86 96.52) (xy 181.61 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1fc8dff6-c05f-4b18-8585-36f498b5c5d4")
+	)
+	(wire
+		(pts
+			(xy 22.86 111.76) (xy 17.78 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "211865f1-dfb9-4bf4-83c5-eb00407fd474")
+	)
+	(wire
+		(pts
+			(xy 59.69 163.83) (xy 92.71 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "235240ce-e7cb-40a4-bdcf-72ef0ad69568")
 	)
 	(wire
 		(pts
@@ -841,7 +903,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 123.19) (xy 149.86 132.08)
+			(xy 149.86 116.84) (xy 149.86 125.73)
 		)
 		(stroke
 			(width 0)
@@ -881,7 +943,17 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 113.03) (xy 180.34 113.03)
+			(xy 184.15 111.76) (xy 180.34 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29c3c23a-b731-4b6a-8605-bad582f1b376")
+	)
+	(wire
+		(pts
+			(xy 181.61 106.68) (xy 180.34 106.68)
 		)
 		(stroke
 			(width 0)
@@ -911,7 +983,17 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 102.87) (xy 149.86 102.87)
+			(xy 62.23 148.59) (xy 62.23 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e8a8582-06ff-4962-b53f-8ab8365b5207")
+	)
+	(wire
+		(pts
+			(xy 118.11 96.52) (xy 149.86 96.52)
 		)
 		(stroke
 			(width 0)
@@ -951,6 +1033,16 @@
 	)
 	(wire
 		(pts
+			(xy 17.78 111.76) (xy 17.78 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "319dbba5-5854-4aeb-9a37-44ebd5c02016")
+	)
+	(wire
+		(pts
 			(xy 213.36 40.64) (xy 213.36 49.53)
 		)
 		(stroke
@@ -961,7 +1053,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 161.29) (xy 86.36 161.29)
+			(xy 124.46 148.59) (xy 125.73 148.59)
 		)
 		(stroke
 			(width 0)
@@ -971,7 +1063,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 171.45) (xy 116.84 171.45)
+			(xy 157.48 158.75) (xy 156.21 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1031,7 +1123,17 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 102.87) (xy 118.11 102.87)
+			(xy 20.32 93.98) (xy 184.15 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40bbec3f-de41-41c2-8695-adec5370ff49")
+	)
+	(wire
+		(pts
+			(xy 86.36 96.52) (xy 118.11 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1051,7 +1153,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 54.61) (xy 276.86 49.53)
+			(xy 276.86 50.8) (xy 276.86 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1061,7 +1163,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 166.37) (xy 86.36 166.37)
+			(xy 124.46 153.67) (xy 125.73 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1071,7 +1173,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 180.34) (xy 149.86 185.42)
+			(xy 173.99 163.83) (xy 173.99 167.64)
 		)
 		(stroke
 			(width 0)
@@ -1151,7 +1253,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 123.19) (xy 181.61 123.19)
+			(xy 180.34 116.84) (xy 181.61 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1171,7 +1273,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 113.03) (xy 54.61 102.87)
+			(xy 54.61 106.68) (xy 54.61 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1191,7 +1293,17 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 166.37) (xy 118.11 166.37)
+			(xy 22.86 77.47) (xy 20.32 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58bb18ae-34ec-4053-bbc3-b59217f3df5e")
+	)
+	(wire
+		(pts
+			(xy 156.21 153.67) (xy 157.48 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1201,7 +1313,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 151.13) (xy 118.11 151.13)
+			(xy 125.73 138.43) (xy 157.48 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1231,13 +1343,23 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 161.29) (xy 54.61 161.29)
+			(xy 92.71 148.59) (xy 93.98 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5bcdb50e-003e-4e63-860f-840acb511fd8")
+	)
+	(wire
+		(pts
+			(xy 19.05 58.42) (xy 280.67 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5be881e0-e46b-433b-813f-472747e1aac6")
 	)
 	(wire
 		(pts
@@ -1248,6 +1370,16 @@
 			(type default)
 		)
 		(uuid "5cfb7b9f-3151-4de8-a6a9-833e92e1bd14")
+	)
+	(wire
+		(pts
+			(xy 280.67 77.47) (xy 275.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e7e79ca-b965-4a64-bce7-0f03b3b1949c")
 	)
 	(wire
 		(pts
@@ -1281,7 +1413,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 180.34) (xy 118.11 180.34)
+			(xy 125.73 163.83) (xy 157.48 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1291,7 +1423,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 102.87) (xy 86.36 113.03)
+			(xy 86.36 96.52) (xy 86.36 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1341,7 +1473,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 123.19) (xy 53.34 132.08)
+			(xy 53.34 116.84) (xy 53.34 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1421,7 +1553,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 118.11) (xy 118.11 118.11)
+			(xy 116.84 111.76) (xy 118.11 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1431,7 +1563,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 171.45) (xy 149.86 180.34)
+			(xy 189.23 158.75) (xy 189.23 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1451,7 +1583,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 113.03) (xy 149.86 113.03)
+			(xy 148.59 106.68) (xy 149.86 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1501,7 +1633,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 123.19) (xy 116.84 123.19)
+			(xy 118.11 116.84) (xy 116.84 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1521,7 +1653,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 161.29) (xy 118.11 161.29)
+			(xy 156.21 148.59) (xy 157.48 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1531,7 +1663,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 102.87) (xy 54.61 102.87)
+			(xy 26.67 96.52) (xy 54.61 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1551,7 +1683,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 118.11) (xy 149.86 118.11)
+			(xy 148.59 111.76) (xy 149.86 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1581,7 +1713,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 102.87) (xy 181.61 113.03)
+			(xy 181.61 96.52) (xy 181.61 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1591,7 +1723,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 151.13) (xy 86.36 161.29)
+			(xy 125.73 138.43) (xy 125.73 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1601,7 +1733,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 171.45) (xy 86.36 180.34)
+			(xy 125.73 158.75) (xy 125.73 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1611,13 +1743,33 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 123.19) (xy 149.86 123.19)
+			(xy 148.59 116.84) (xy 149.86 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9e2bfa7c-786b-4bd7-a15b-b96882e990dc")
+	)
+	(wire
+		(pts
+			(xy 19.05 35.56) (xy 19.05 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e8192a9-105b-4789-8102-785c02cae07a")
+	)
+	(wire
+		(pts
+			(xy 22.86 35.56) (xy 19.05 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ebdd221-bf64-4f10-b95e-baf9ffa35a6e")
 	)
 	(wire
 		(pts
@@ -1651,7 +1803,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 118.11) (xy 54.61 118.11)
+			(xy 53.34 111.76) (xy 54.61 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1691,7 +1843,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 132.08) (xy 149.86 132.08)
+			(xy 118.11 125.73) (xy 149.86 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1701,7 +1853,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 132.08) (xy 181.61 132.08)
+			(xy 149.86 125.73) (xy 181.61 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1711,7 +1863,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 171.45) (xy 118.11 180.34)
+			(xy 157.48 158.75) (xy 157.48 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1791,7 +1943,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 113.03) (xy 86.36 113.03)
+			(xy 85.09 106.68) (xy 86.36 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1801,7 +1953,27 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 171.45) (xy 149.86 171.45)
+			(xy 59.69 158.75) (xy 59.69 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7e210b8-3fa9-4701-ba01-0206356a0d34")
+	)
+	(wire
+		(pts
+			(xy 20.32 77.47) (xy 20.32 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b70d41-e0f5-4227-9252-274151f61a19")
+	)
+	(wire
+		(pts
+			(xy 187.96 158.75) (xy 189.23 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1811,7 +1983,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 113.03) (xy 54.61 113.03)
+			(xy 53.34 106.68) (xy 54.61 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1841,6 +2013,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 153.67) (xy 62.23 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be2a411c-dd9a-4d22-98c3-0aa6f60e6c9c")
+	)
+	(wire
+		(pts
 			(xy 118.11 82.55) (xy 116.84 82.55)
 		)
 		(stroke
@@ -1861,7 +2043,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 151.13) (xy 149.86 151.13)
+			(xy 157.48 138.43) (xy 189.23 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1881,7 +2063,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 113.03) (xy 149.86 102.87)
+			(xy 149.86 106.68) (xy 149.86 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1901,7 +2083,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 161.29) (xy 54.61 151.13)
+			(xy 93.98 148.59) (xy 93.98 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1911,13 +2093,23 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 161.29) (xy 149.86 161.29)
+			(xy 187.96 148.59) (xy 189.23 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c4050210-0ac4-43da-bb1c-fa1df2b526a4")
+	)
+	(wire
+		(pts
+			(xy 280.67 58.42) (xy 280.67 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c600b715-33d3-4f6a-a80a-309dcd03b8c6")
 	)
 	(wire
 		(pts
@@ -1961,7 +2153,27 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 132.08) (xy 118.11 132.08)
+			(xy 17.78 135.89) (xy 193.04 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd8f3331-0e83-4679-b078-915189acee3b")
+	)
+	(wire
+		(pts
+			(xy 184.15 93.98) (xy 184.15 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce07439a-958c-4707-a7e4-4835eb5ee55e")
+	)
+	(wire
+		(pts
+			(xy 86.36 125.73) (xy 118.11 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1971,7 +2183,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 171.45) (xy 86.36 171.45)
+			(xy 124.46 158.75) (xy 125.73 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1981,13 +2193,23 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 123.19) (xy 86.36 132.08)
+			(xy 86.36 116.84) (xy 86.36 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d05634f4-aaad-4bbf-91de-b250c2ac8b67")
+	)
+	(wire
+		(pts
+			(xy 59.69 148.59) (xy 62.23 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d680f79e-0aad-41aa-a9dd-d81ea2904737")
 	)
 	(wire
 		(pts
@@ -2031,7 +2253,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 180.34) (xy 149.86 180.34)
+			(xy 157.48 163.83) (xy 173.99 163.83)
 		)
 		(stroke
 			(width 0)
@@ -2081,7 +2303,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 102.87) (xy 86.36 102.87)
+			(xy 54.61 96.52) (xy 86.36 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2111,7 +2333,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 171.45) (xy 53.34 180.34)
+			(xy 92.71 158.75) (xy 92.71 163.83)
 		)
 		(stroke
 			(width 0)
@@ -2141,7 +2363,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 180.34) (xy 86.36 180.34)
+			(xy 92.71 163.83) (xy 125.73 163.83)
 		)
 		(stroke
 			(width 0)
@@ -2161,7 +2383,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 118.11) (xy 86.36 118.11)
+			(xy 85.09 111.76) (xy 86.36 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2181,7 +2403,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 123.19) (xy 181.61 132.08)
+			(xy 181.61 116.84) (xy 181.61 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2191,7 +2413,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 132.08) (xy 181.61 135.89)
+			(xy 181.61 125.73) (xy 181.61 127)
 		)
 		(stroke
 			(width 0)
@@ -2201,7 +2423,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 123.19) (xy 118.11 132.08)
+			(xy 118.11 116.84) (xy 118.11 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2231,7 +2453,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 113.03) (xy 118.11 113.03)
+			(xy 116.84 106.68) (xy 118.11 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2251,7 +2473,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 113.03) (xy 118.11 102.87)
+			(xy 118.11 106.68) (xy 118.11 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2261,7 +2483,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 132.08) (xy 86.36 132.08)
+			(xy 53.34 125.73) (xy 86.36 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2271,7 +2493,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 161.29) (xy 149.86 151.13)
+			(xy 189.23 148.59) (xy 189.23 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2291,7 +2513,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 151.13) (xy 54.61 151.13)
+			(xy 33.02 138.43) (xy 62.23 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2301,7 +2523,7 @@
 	)
 	(global_label "Led_Vdd"
 		(shape input)
-		(at 26.67 102.87 180)
+		(at 26.67 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2311,7 +2533,7 @@
 		)
 		(uuid "1e5c15a3-75c7-4fb2-9782-0522fe57c4bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.0649 102.87 0)
+			(at 16.0649 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2323,7 +2545,7 @@
 	)
 	(global_label "Led_Vdd"
 		(shape input)
-		(at 26.67 151.13 180)
+		(at 33.02 138.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2333,7 +2555,29 @@
 		)
 		(uuid "5dd9d2d3-1c37-474e-85a2-3bbecd1737ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.0649 151.13 0)
+			(at 22.4149 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NEOPIXEL_PIN"
+		(shape input)
+		(at 29.21 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "886286c9-94b3-4175-bd08-eaf94baec078")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 12.9805 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2384,6 +2628,201 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WS2812B2020:WS2812B2020")
+		(at 44.45 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0046dc99-7347-4441-93f9-d01c957ca8b6")
+		(property "Reference" "D29"
+			(at 44.45 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B2020"
+			(at 44.45 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "WorldSemi"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "V1.0"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "WS2812B-2020"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "Not in stock"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WorldSemi"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "fad9d976-1086-4851-8676-0202624b04ec")
+		)
+		(pin "3"
+			(uuid "7559a994-9ea5-4e18-bb31-cd69b1a1409e")
+		)
+		(pin "1"
+			(uuid "2030d6b7-a832-4a00-b470-02fcb917d737")
+		)
+		(pin "2"
+			(uuid "2bd306c0-7032-41c8-8ea9-ee2b20f70747")
+		)
+		(instances
+			(project "7Tally"
+				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019/7f2d2391-7ef0-426e-aa02-bde00b25e545"
+					(reference "D29")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2779,7 +3218,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 181.61 135.89 0)
+		(at 181.61 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2788,7 +3227,7 @@
 		(fields_autoplaced yes)
 		(uuid "10833cfe-48c2-4aa3-95e1-8339d48084f8")
 		(property "Reference" "#PWR013"
-			(at 181.61 142.24 0)
+			(at 181.61 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2797,7 +3236,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 181.61 140.97 0)
+			(at 181.61 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2805,7 +3244,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 135.89 0)
+			(at 181.61 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2814,7 +3253,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 135.89 0)
+			(at 181.61 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2823,7 +3262,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 181.61 135.89 0)
+			(at 181.61 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2845,7 +3284,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 101.6 166.37 0)
+		(at 140.97 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2854,7 +3293,7 @@
 		(fields_autoplaced yes)
 		(uuid "16bb93ce-60eb-45f1-92b3-d02f5a70c431")
 		(property "Reference" "D22"
-			(at 101.6 153.67 0)
+			(at 140.97 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2862,7 +3301,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 101.6 156.21 0)
+			(at 140.97 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,7 +3309,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2880,7 +3319,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2889,7 +3328,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2898,7 +3337,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2908,7 +3347,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,7 +3357,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2928,7 +3367,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2938,7 +3377,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2948,7 +3387,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2958,7 +3397,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,7 +3407,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2978,7 +3417,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2988,7 +3427,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2998,7 +3437,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3008,7 +3447,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 101.6 166.37 0)
+			(at 140.97 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3625,7 +4064,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 185.42 0)
+		(at 173.99 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3634,7 +4073,7 @@
 		(fields_autoplaced yes)
 		(uuid "4ddc08b2-141e-4e0d-8e87-399a628ee0db")
 		(property "Reference" "#PWR016"
-			(at 149.86 191.77 0)
+			(at 173.99 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3643,7 +4082,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 149.86 190.5 0)
+			(at 173.99 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3651,7 +4090,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 185.42 0)
+			(at 173.99 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3660,7 +4099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 185.42 0)
+			(at 173.99 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3669,7 +4108,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 185.42 0)
+			(at 173.99 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3691,7 +4130,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 69.85 166.37 0)
+		(at 109.22 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3700,7 +4139,7 @@
 		(fields_autoplaced yes)
 		(uuid "562d5434-7c2a-4fbd-90c0-28c1b58850fc")
 		(property "Reference" "D21"
-			(at 69.85 153.67 0)
+			(at 109.22 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3708,7 +4147,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 69.85 156.21 0)
+			(at 109.22 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3716,7 +4155,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3726,7 +4165,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3735,7 +4174,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3744,7 +4183,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3754,7 +4193,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3764,7 +4203,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +4213,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3784,7 +4223,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3794,7 +4233,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3804,7 +4243,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3814,7 +4253,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3824,7 +4263,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3834,7 +4273,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3844,7 +4283,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3854,7 +4293,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 69.85 166.37 0)
+			(at 109.22 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3886,7 +4325,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 133.35 118.11 0)
+		(at 133.35 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3895,7 +4334,7 @@
 		(fields_autoplaced yes)
 		(uuid "5ab27a67-5e24-492c-bc42-470935b07739")
 		(property "Reference" "D27"
-			(at 133.35 105.41 0)
+			(at 133.35 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3903,7 +4342,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 133.35 107.95 0)
+			(at 133.35 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3911,7 +4350,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3921,7 +4360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3930,7 +4369,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3939,7 +4378,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3949,7 +4388,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3959,7 +4398,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3969,7 +4408,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3979,7 +4418,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,7 +4428,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3999,7 +4438,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4009,7 +4448,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4019,7 +4458,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +4468,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4039,7 +4478,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4049,7 +4488,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 133.35 118.11 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4081,7 +4520,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 101.6 118.11 0)
+		(at 101.6 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4090,7 +4529,7 @@
 		(fields_autoplaced yes)
 		(uuid "6366690a-aaac-44cb-b793-755a0ba93533")
 		(property "Reference" "D26"
-			(at 101.6 105.41 0)
+			(at 101.6 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4098,7 +4537,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 101.6 107.95 0)
+			(at 101.6 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4106,7 +4545,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4116,7 +4555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4125,7 +4564,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4134,7 +4573,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +4583,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,7 +4593,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4164,7 +4603,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,7 +4613,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +4623,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4194,7 +4633,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4204,7 +4643,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4214,7 +4653,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4224,7 +4663,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4234,7 +4673,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4244,7 +4683,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 101.6 118.11 0)
+			(at 101.6 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4471,7 +4910,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 38.1 118.11 0)
+		(at 38.1 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4480,7 +4919,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d2461e7-287f-4aba-ab05-b107e754e5c2")
 		(property "Reference" "D24"
-			(at 38.1 105.41 0)
+			(at 38.1 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4488,7 +4927,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 38.1 107.95 0)
+			(at 38.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4496,7 +4935,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4506,7 +4945,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4515,7 +4954,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4524,7 +4963,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4534,7 +4973,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4544,7 +4983,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4554,7 +4993,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4564,7 +5003,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4574,7 +5013,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4584,7 +5023,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4594,7 +5033,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4604,7 +5043,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,7 +5053,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +5063,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4634,7 +5073,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 38.1 118.11 0)
+			(at 38.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5251,7 +5690,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 69.85 118.11 0)
+		(at 69.85 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5260,7 +5699,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae8d50b6-4c93-4538-a2f3-0c5fe0480f1c")
 		(property "Reference" "D25"
-			(at 69.85 105.41 0)
+			(at 69.85 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5268,7 +5707,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 69.85 107.95 0)
+			(at 69.85 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5276,7 +5715,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5286,7 +5725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5295,7 +5734,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5304,7 +5743,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5314,7 +5753,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5324,7 +5763,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5334,7 +5773,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5344,7 +5783,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5354,7 +5793,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5364,7 +5803,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5374,7 +5813,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5384,7 +5823,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5394,7 +5833,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5404,7 +5843,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5414,7 +5853,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 69.85 118.11 0)
+			(at 69.85 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6616,7 +7055,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 276.86 54.61 0)
+		(at 276.86 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6625,7 +7064,7 @@
 		(fields_autoplaced yes)
 		(uuid "ceb6c397-11bb-4d68-963f-f28ccc47cfbc")
 		(property "Reference" "#PWR01"
-			(at 276.86 60.96 0)
+			(at 276.86 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6634,7 +7073,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 276.86 59.69 0)
+			(at 276.86 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6642,7 +7081,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 54.61 0)
+			(at 276.86 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6651,7 +7090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 54.61 0)
+			(at 276.86 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6660,7 +7099,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 276.86 54.61 0)
+			(at 276.86 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6682,7 +7121,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 38.1 166.37 0)
+		(at 77.47 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6691,7 +7130,7 @@
 		(fields_autoplaced yes)
 		(uuid "d17d0b56-4e50-4f4e-95b2-bfb300428bcb")
 		(property "Reference" "D20"
-			(at 38.1 153.67 0)
+			(at 77.47 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6699,7 +7138,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 38.1 156.21 0)
+			(at 77.47 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6707,7 +7146,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6717,7 +7156,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6726,7 +7165,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6735,7 +7174,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6745,7 +7184,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6755,7 +7194,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6765,7 +7204,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6775,7 +7214,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6785,7 +7224,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6795,7 +7234,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6805,7 +7244,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,7 +7254,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6825,7 +7264,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6835,7 +7274,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6845,7 +7284,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 38.1 166.37 0)
+			(at 77.47 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6877,7 +7316,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 133.35 166.37 0)
+		(at 172.72 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6886,7 +7325,7 @@
 		(fields_autoplaced yes)
 		(uuid "d2998d62-c154-40af-9bdc-c01cba2ca33a")
 		(property "Reference" "D23"
-			(at 133.35 153.67 0)
+			(at 172.72 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6894,7 +7333,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 133.35 156.21 0)
+			(at 172.72 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6902,7 +7341,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6912,7 +7351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6921,7 +7360,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6930,7 +7369,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6940,7 +7379,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6950,7 +7389,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6960,7 +7399,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6970,7 +7409,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6980,7 +7419,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6990,7 +7429,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7000,7 +7439,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7010,7 +7449,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7020,7 +7459,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7030,7 +7469,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7040,7 +7479,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 133.35 166.37 0)
+			(at 172.72 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7267,7 +7706,7 @@
 	)
 	(symbol
 		(lib_id "WS2812B2020:WS2812B2020")
-		(at 165.1 118.11 0)
+		(at 165.1 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7276,7 +7715,7 @@
 		(fields_autoplaced yes)
 		(uuid "e514d9e5-737a-462e-becf-0a69cafa950d")
 		(property "Reference" "D28"
-			(at 165.1 105.41 0)
+			(at 165.1 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7284,7 +7723,7 @@
 			)
 		)
 		(property "Value" "WS2812B2020"
-			(at 165.1 107.95 0)
+			(at 165.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7292,7 +7731,7 @@
 			)
 		)
 		(property "Footprint" "WS2812B2020:LED_WS2812B2020"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,7 +7741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7311,7 +7750,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7320,7 +7759,7 @@
 			)
 		)
 		(property "MF" "WorldSemi"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7330,7 +7769,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.84 mm"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7340,7 +7779,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7350,7 +7789,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7360,7 +7799,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=eda"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7370,7 +7809,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7380,7 +7819,7 @@
 			)
 		)
 		(property "PARTREV" "V1.0"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7390,7 +7829,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WS2812B-2020/Worldsemi/view-part/?ref=snap"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7400,7 +7839,7 @@
 			)
 		)
 		(property "MP" "WS2812B-2020"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7410,7 +7849,7 @@
 			)
 		)
 		(property "Description_1" "Programmable LED; SMD; 2020; RGB; 2x2x0.84mm; 3.7÷5.3V; 2kHz"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7420,7 +7859,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7430,7 +7869,7 @@
 			)
 		)
 		(property "MANUFACTURER" "WorldSemi"
-			(at 165.1 118.11 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)

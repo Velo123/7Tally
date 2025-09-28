@@ -5392,7 +5392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_01005_0402Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 20.066 98.044 90)
 			(effects
 				(font
@@ -5532,7 +5532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 34.036 98.044 90)
 			(effects
 				(font
