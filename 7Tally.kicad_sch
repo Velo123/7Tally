@@ -3620,7 +3620,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 95.25) (xy 104.14 95.25)
+			(xy 93.98 95.25) (xy 107.95 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4050,7 +4050,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 97.79) (xy 93.98 97.79)
+			(xy 97.79 97.79) (xy 93.98 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4402,7 +4402,7 @@
 	)
 	(global_label "NEOPIXEL_PIN"
 		(shape input)
-		(at 104.14 95.25 0)
+		(at 107.95 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4412,7 +4412,7 @@
 		)
 		(uuid "662330ea-00a4-45de-8c40-ac3725dec892")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.3695 95.25 0)
+			(at 124.1795 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4550,6 +4550,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Led_Vdd"
+		(shape output)
+		(at 97.79 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4703d73-618f-4dd9-bd7d-36a84026e3eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.3951 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4945,72 +4967,6 @@
 			(project "7Tally"
 				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
 					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 96.52 97.79 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "025c7899-186c-4708-b6f1-87241c1dd9ca")
-		(property "Reference" "#PWR022"
-			(at 92.71 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 99.06 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 96.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d9342940-bd22-4391-bea1-f67b3a4c5524")
-		)
-		(instances
-			(project "7Tally"
-				(path "/a26cb5f3-8ba9-4d03-a29e-a58d33583019"
-					(reference "#PWR022")
 					(unit 1)
 				)
 			)
