@@ -13674,7 +13674,7 @@
 		(uuid "48176315-5b2a-4137-8279-8c44f5efa2a5")
 		(at 108 85)
 		(property "Reference" "D9"
-			(at -1.75 0.5 -270)
+			(at -1.75 0.5 90)
 			(layer "F.SilkS")
 			(uuid "3f990b47-7367-4bbe-8eda-a382adc92671")
 			(effects
@@ -15985,7 +15985,7 @@
 		(uuid "57b24647-d7d2-4f78-bb79-d61fa514eb5e")
 		(at 108 47)
 		(property "Reference" "D9"
-			(at -1.75 0.5 -270)
+			(at -1.75 0.5 90)
 			(layer "F.SilkS")
 			(uuid "5183706d-2eaf-430c-bd2e-c35c784aabdc")
 			(effects
@@ -45394,7 +45394,7 @@
 		(uuid "ee6ce9c7-79a5-4743-a7c5-540e76f50055")
 		(at 53 85)
 		(property "Reference" "D9"
-			(at -1.75 0.5 -270)
+			(at -1.75 0.5 90)
 			(layer "F.SilkS")
 			(uuid "e6972e27-e7fb-4cfe-a278-9b7599b38c1f")
 			(effects
