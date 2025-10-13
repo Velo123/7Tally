@@ -21287,8 +21287,8 @@
 		(uuid "fea0898a-79e9-4b53-abc8-c8f1c5a801a4")
 	)
 	(gr_rect
-		(start 50.5 45)
-		(end 90.5 49)
+		(start 49 45)
+		(end 92 49)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -21331,8 +21331,8 @@
 		(uuid "a2be6660-6fd1-4efc-8545-026928fedf05")
 	)
 	(gr_rect
-		(start 50.5 78)
-		(end 90.5 82)
+		(start 49 78)
+		(end 92 82)
 		(stroke
 			(width 0.1)
 			(type default)
