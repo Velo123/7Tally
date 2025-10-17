@@ -60,8 +60,28 @@
       ],
       "drc_exclusions": [
         [
+          "silk_over_copper|50590000|67419582|0b7f4486-fefc-44cb-9f4c-950e45646eb6|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|51350000|59000000|eeb95d28-3f6b-4aed-b315-b79e2215c4a0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|51350000|68000000|b5d19125-06cb-46d6-8bb1-0545784fb25a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|51350000|69421009|b6d2192f-122e-46d3-9127-2e4c38ed104f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "silk_over_copper|54450000|54500000|eef8597e-7bf2-4bc3-bbf1-2250673660a6|00000000-0000-0000-0000-000000000000",
           "irrelevant"
+        ],
+        [
+          "silk_over_copper|64615317|72500000|39b329e8-976a-4f3d-b2b9-1d6eb1f41f25|00000000-0000-0000-0000-000000000000",
+          ""
         ],
         [
           "silk_over_copper|74590000|64994142|2c12d022-227d-4665-ac5d-06ff77835b41|00000000-0000-0000-0000-000000000000",
@@ -74,54 +94,6 @@
         [
           "silk_overlap|74590000|65096141|2c12d022-227d-4665-ac5d-06ff77835b41|6dea5b59-6e54-49a4-a1dc-2377f15b4a77",
           ""
-        ],
-        [
-          "solder_mask_bridge|52000000|50750000|addf759c-59e4-416a-aa46-edfa9fa7d613|434c0071-85e9-446f-b186-a4abc9ce6edd",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|52000000|50750000|addf759c-59e4-416a-aa46-edfa9fa7d613|65efd859-ce6b-4bd1-bf25-e5aa2f4c502d",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|52000000|51000000|434c0071-85e9-446f-b186-a4abc9ce6edd|dd5fb05b-c9fc-463e-b26a-3423eab70b24",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|52000000|51000000|56403d83-d579-4a83-b564-af32dedbdfc1|65efd859-ce6b-4bd1-bf25-e5aa2f4c502d",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|52500000|50500000|addf759c-59e4-416a-aa46-edfa9fa7d613|56403d83-d579-4a83-b564-af32dedbdfc1",
-          ""
-        ],
-        [
-          "solder_mask_bridge|52500000|50500000|addf759c-59e4-416a-aa46-edfa9fa7d613|dd5fb05b-c9fc-463e-b26a-3423eab70b24",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|53500000|50750000|0cd4a9f6-aa95-4bfe-8cdc-600516b9dac7|89180b7e-a9f3-422a-8595-8fe16a49d96e",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|53500000|50750000|0cd4a9f6-aa95-4bfe-8cdc-600516b9dac7|e74c7092-593d-41dd-89f0-28985765f8e0",
-          ""
-        ],
-        [
-          "solder_mask_bridge|53500000|51000000|18b11da1-90c6-406c-b239-db8435555e3a|e74c7092-593d-41dd-89f0-28985765f8e0",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|53500000|51000000|89180b7e-a9f3-422a-8595-8fe16a49d96e|c046a578-60fb-4a35-a5e3-acbcb7577aa3",
-          "Supposed to not connect"
-        ],
-        [
-          "solder_mask_bridge|54000000|50500000|0cd4a9f6-aa95-4bfe-8cdc-600516b9dac7|18b11da1-90c6-406c-b239-db8435555e3a",
-          ""
-        ],
-        [
-          "solder_mask_bridge|54000000|50500000|0cd4a9f6-aa95-4bfe-8cdc-600516b9dac7|c046a578-60fb-4a35-a5e3-acbcb7577aa3",
-          "Its supposed to not be connected"
         ]
       ],
       "meta": {
