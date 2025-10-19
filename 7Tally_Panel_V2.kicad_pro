@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.6,
+          "height": 1.0,
+          "width": 2.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -58,7 +58,52 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_overlap|50590000|59000000|0b7f4486-fefc-44cb-9f4c-950e45646eb6|f068f974-2960-45c2-9313-5eebd70c3130",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|59000000|eeb95d28-3f6b-4aed-b315-b79e2215c4a0|f068f974-2960-45c2-9313-5eebd70c3130",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|60500000|0b7f4486-fefc-44cb-9f4c-950e45646eb6|997c7197-c370-44ef-911f-31208c6f7ba7",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|62000000|0b7f4486-fefc-44cb-9f4c-950e45646eb6|d0a5f5ba-8e63-49e9-8ffe-6c5e7b0cc884",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|65000000|0b7f4486-fefc-44cb-9f4c-950e45646eb6|fb87954a-eb47-4ae0-82a2-6ea1c94b8607",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|66500000|0b7f4486-fefc-44cb-9f4c-950e45646eb6|af3ba108-5390-460a-9698-93d886f7c7a5",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|68000000|0b7f4486-fefc-44cb-9f4c-950e45646eb6|640a1313-b6db-4846-8474-a7ae5a4bf881",
+          ""
+        ],
+        [
+          "silk_overlap|50590000|68000000|b5d19125-06cb-46d6-8bb1-0545784fb25a|640a1313-b6db-4846-8474-a7ae5a4bf881",
+          ""
+        ],
+        [
+          "silk_overlap|50704819|70011904|b6d2192f-122e-46d3-9127-2e4c38ed104f|562853c2-e76c-4362-a8af-f2504aa38d69",
+          ""
+        ],
+        [
+          "silk_overlap|74590000|60096141|2c12d022-227d-4665-ac5d-06ff77835b41|cace49f5-f51f-4dae-9096-1576e0082432",
+          ""
+        ],
+        [
+          "silk_overlap|74590000|65096141|2c12d022-227d-4665-ac5d-06ff77835b41|6dea5b59-6e54-49a4-a1dc-2377f15b4a77",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -102,9 +147,9 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "ignore",
-        "silk_overlap": "ignore",
+        "silk_overlap": "error",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "ignore",
+        "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "error",
         "text_on_edge_cuts": "error",
@@ -131,7 +176,7 @@
         "min_hole_to_hole": 0.0,
         "min_microvia_diameter": 0.0,
         "min_microvia_drill": 0.0,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.0,
         "min_text_thickness": 0.0,
@@ -486,7 +531,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "7Tally_Panel.kicad_pro",
+    "filename": "7Tally.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -521,11 +566,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "./",
+      "netlist": "",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "7Tally.step",
       "svg": "",
       "vrml": ""
     },
