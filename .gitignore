@@ -41,3 +41,4 @@ fp-info-cache
 
 # Custom files
 *.step
+/Out
